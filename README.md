@@ -1,4 +1,5 @@
-# my-economy
+# Demo
+https://myeconomy.netlify.app
 
 ## Project setup
 ```
