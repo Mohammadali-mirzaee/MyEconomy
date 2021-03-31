@@ -1,6 +1,8 @@
 # Demo
 https://myeconomy.netlify.app
 
+Dont forget that you have to signup first and remember your email and password for login page
+
 ## Project setup
 ```
 npm install
